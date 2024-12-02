@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Muhammad-Daniyal0077
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there, I'm Muhammad Daniyal!
+A passionate Software Engineer with expertise in web development, specializing in front-end and back-end development. I enjoy solving real-world problems through clean and efficient code.
 
-<!---
-Muhammad-Daniyal0077/Muhammad-Daniyal0077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+🌟 Skills: CodeIgniter, PHP, Python Django, JavaScript, HTML5, Bootstrap, SQL, and more.
+🔍 Interests: Web Development, AI/ML, Data Science, and Open Source Contributions.
+📖 Currently Learning: Advanced React and APIs to enhance my development skills.
+🤝 Open to Collaborations: Projects involving web applications or data-driven solutions.
+🎯 Goals: To create impactful software that makes life simpler and more efficient.
+
+🌐 Connect with Me
+💼 LinkedIn
+📂 [Portfolio](https://xpert.pk/mypotfolio)
+📧 Email: muhammaddaniyal0077@gmail.com
+🖥️ GitHub
